@@ -1,0 +1,30 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "project initialised using npm init",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeStructured"
+  },
+  "keywords": [
+    "client-server",
+    "using",
+    "MEAN"
+  ],
+  "author": "aliabbas vohra",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^6.2.0",
+    "mongoose": "^4.4.15",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "path": "^0.12.7"
+  }
+}
